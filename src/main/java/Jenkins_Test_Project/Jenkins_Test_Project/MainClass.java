@@ -54,6 +54,6 @@ public class MainClass {
 		lblWelcome.setFont(new Font("Footlight MT Light", Font.PLAIN, 40));
 		lblWelcome.setBounds(96, 98, 262, 58);
 		panel.add(lblWelcome);
-		lblWelcome.setForeground(Color.RED);
+		lblWelcome.setForeground(Color.BLUE);
 	}
 }
